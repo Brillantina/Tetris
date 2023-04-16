@@ -15,6 +15,8 @@
 		C90A526B29EAD606007F6123 /* Tetris.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C90A526929EAD606007F6123 /* Tetris.xcdatamodeld */; };
 		C90A527229EAD642007F6123 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90A527129EAD642007F6123 /* Alerts.swift */; };
 		C90A527429EADD7A007F6123 /* GameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90A527329EADD7A007F6123 /* GameViewModel.swift */; };
+		C90A527629EBFBC2007F6123 /* ButtonPlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90A527529EBFBC2007F6123 /* ButtonPlayView.swift */; };
+		C90A527829EBFF76007F6123 /* PlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90A527729EBFF76007F6123 /* PlayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		C90A526A29EAD606007F6123 /* Tetris.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Tetris.xcdatamodel; sourceTree = "<group>"; };
 		C90A527129EAD642007F6123 /* Alerts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		C90A527329EADD7A007F6123 /* GameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
+		C90A527529EBFBC2007F6123 /* ButtonPlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPlayView.swift; sourceTree = "<group>"; };
+		C90A527729EBFF76007F6123 /* PlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				C90A526029EAD605007F6123 /* GameView.swift */,
 				C90A527329EADD7A007F6123 /* GameViewModel.swift */,
 				C90A527129EAD642007F6123 /* Alerts.swift */,
+				C90A527529EBFBC2007F6123 /* ButtonPlayView.swift */,
+				C90A527729EBFF76007F6123 /* PlayView.swift */,
 				C90A526229EAD606007F6123 /* Assets.xcassets */,
 				C90A526729EAD606007F6123 /* Persistence.swift */,
 				C90A526929EAD606007F6123 /* Tetris.xcdatamodeld */,
@@ -151,10 +157,12 @@
 			files = (
 				C90A527429EADD7A007F6123 /* GameViewModel.swift in Sources */,
 				C90A526829EAD606007F6123 /* Persistence.swift in Sources */,
+				C90A527829EBFF76007F6123 /* PlayView.swift in Sources */,
 				C90A527229EAD642007F6123 /* Alerts.swift in Sources */,
 				C90A526129EAD605007F6123 /* GameView.swift in Sources */,
 				C90A526B29EAD606007F6123 /* Tetris.xcdatamodeld in Sources */,
 				C90A525F29EAD605007F6123 /* TetrisApp.swift in Sources */,
+				C90A527629EBFBC2007F6123 /* ButtonPlayView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

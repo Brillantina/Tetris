@@ -1,8 +1,10 @@
 /Users/ritamarrano/Documents/GitHub/Tetris/Tetris/GameViewModel.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/Tetris/Persistence.swift
+/Users/ritamarrano/Documents/GitHub/Tetris/Tetris/PlayView.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/Tetris/Alerts.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/Tetris/GameView.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/Tetris/TetrisApp.swift
+/Users/ritamarrano/Documents/GitHub/Tetris/Tetris/ButtonPlayView.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/DerivedData/Tetris/Index.noindex/Build/Intermediates.noindex/Tetris.build/Debug-iphonesimulator/Tetris.build/DerivedSources/CoreDataGenerated/Tetris/Item+CoreDataClass.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/DerivedData/Tetris/Index.noindex/Build/Intermediates.noindex/Tetris.build/Debug-iphonesimulator/Tetris.build/DerivedSources/CoreDataGenerated/Tetris/Item+CoreDataProperties.swift
 /Users/ritamarrano/Documents/GitHub/Tetris/DerivedData/Tetris/Index.noindex/Build/Intermediates.noindex/Tetris.build/Debug-iphonesimulator/Tetris.build/DerivedSources/CoreDataGenerated/Tetris/Tetris+CoreDataModel.swift

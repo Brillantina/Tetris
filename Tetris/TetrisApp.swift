@@ -13,7 +13,7 @@ struct TetrisApp: App {
 
     var body: some Scene {
         WindowGroup {
-            GameView()
+            PlayView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
