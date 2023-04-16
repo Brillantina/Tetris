@@ -31,7 +31,7 @@ final class GameViewModel: ObservableObject {
         
         if (checkWinConditions(for: .human, in: moves)) {
             alertItem = AlertContent.humanWin
-    
+            return
         }
 
         if checkForDraw(in: moves){
@@ -50,6 +50,7 @@ final class GameViewModel: ObservableObject {
             
             if (checkWinConditions(for: .computer, in: moves)) {
                 alertItem = AlertContent.computerWin
+                return
             }
             
             if checkForDraw(in: moves){

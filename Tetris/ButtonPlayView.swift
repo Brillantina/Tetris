@@ -25,7 +25,7 @@ struct ButtonPlayView: View {
         })  .padding(.horizontal, 50)
             
             .background(
-                Capsule().strokeBorder(Color.white, lineWidth: 0)
+                Capsule().strokeBorder(Color.black, lineWidth: 3)
                     .background(Color(.brown))
                     .opacity(0.7)
                     .cornerRadius(30)

@@ -96,6 +96,96 @@
 			<key>uniqueIdentifier</key>
 			<string>176F9D4A-2406-4A39-B554-E3FCDD11811D</string>
 		</dict>
+		<key>7A935420-C140-4419-8145-46125C7D6AB4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>008E00B3-8462-422E-BF40-6CB6581E62AE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Tetris-2023.04.16_12-14-42-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetris project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetris</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Tetris</string>
+			<key>timeStartedRecording</key>
+			<real>703332882.66481495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>7A935420-C140-4419-8145-46125C7D6AB4</string>
+		</dict>
+		<key>BBAA5B19-2C1D-4261-8A40-002B810728B0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FCEEB172-E005-4D58-8794-C5D7A9BB9B05</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Tetris-2023.04.16_12-08-41-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tetris project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tetris</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Tetris</string>
+			<key>timeStartedRecording</key>
+			<real>703332521.56911397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>BBAA5B19-2C1D-4261-8A40-002B810728B0</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

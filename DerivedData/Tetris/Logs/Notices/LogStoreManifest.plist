@@ -6,6 +6,230 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>002AFE0A-6E87-438C-B76B-CD80900AD2FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>002AFE0A-6E87-438C-B76B-CD80900AD2FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333779.00605702</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>002AFE0A-6E87-438C-B76B-CD80900AD2FD</string>
+		</dict>
+		<key>0652DA06-6ADE-44C6-BCA5-D3B96CD5982A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0652DA06-6ADE-44C6-BCA5-D3B96CD5982A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333826.45338404</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>0652DA06-6ADE-44C6-BCA5-D3B96CD5982A</string>
+		</dict>
+		<key>11BA4F2A-B448-4699-99CB-C4DF16FA6C8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11BA4F2A-B448-4699-99CB-C4DF16FA6C8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333045.44511294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>11BA4F2A-B448-4699-99CB-C4DF16FA6C8B</string>
+		</dict>
+		<key>12F80EA1-A92F-45B6-B047-DD2A58395903</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12F80EA1-A92F-45B6-B047-DD2A58395903.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333675.00776196</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>12F80EA1-A92F-45B6-B047-DD2A58395903</string>
+		</dict>
+		<key>17273947-2FFF-419F-BFFC-4E532181AE38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17273947-2FFF-419F-BFFC-4E532181AE38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333045.44511294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>17273947-2FFF-419F-BFFC-4E532181AE38</string>
+		</dict>
+		<key>1BF16464-67FA-4653-BD7C-C5C38E353593</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BF16464-67FA-4653-BD7C-C5C38E353593.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333815.01770198</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>1BF16464-67FA-4653-BD7C-C5C38E353593</string>
+		</dict>
+		<key>1E789DDA-28C6-4EE3-8009-2394976257F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1E789DDA-28C6-4EE3-8009-2394976257F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333730.78813601</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>1E789DDA-28C6-4EE3-8009-2394976257F4</string>
+		</dict>
+		<key>27A621B6-F484-4332-B4E3-93B9834D7E44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27A621B6-F484-4332-B4E3-93B9834D7E44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333652.82887995</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>27A621B6-F484-4332-B4E3-93B9834D7E44</string>
+		</dict>
 		<key>28D4D604-D83D-4A75-BFA4-6F1A1016ACE3</key>
 		<dict>
 			<key>className</key>
@@ -33,6 +257,34 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>28D4D604-D83D-4A75-BFA4-6F1A1016ACE3</string>
+		</dict>
+		<key>29C7113A-F00A-4C96-B0B2-9AD4AD090268</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>29C7113A-F00A-4C96-B0B2-9AD4AD090268.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703334253.96992004</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>29C7113A-F00A-4C96-B0B2-9AD4AD090268</string>
 		</dict>
 		<key>2BCECB13-DCC5-4282-A843-5C045876929F</key>
 		<dict>
@@ -62,6 +314,90 @@
 			<key>uniqueIdentifier</key>
 			<string>2BCECB13-DCC5-4282-A843-5C045876929F</string>
 		</dict>
+		<key>2C2B85AC-B2AC-4D4B-8C3D-BD069F64F172</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C2B85AC-B2AC-4D4B-8C3D-BD069F64F172.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333779.00605702</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>2C2B85AC-B2AC-4D4B-8C3D-BD069F64F172</string>
+		</dict>
+		<key>2F657133-B095-4F10-867C-74E05DF467F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F657133-B095-4F10-867C-74E05DF467F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703332521.56947196</real>
+			<key>timeStoppedRecording</key>
+			<real>703332521.66140604</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>2F657133-B095-4F10-867C-74E05DF467F4</string>
+		</dict>
+		<key>2FAE14D2-15CF-4EA0-A633-780A29F2ED87</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FAE14D2-15CF-4EA0-A633-780A29F2ED87.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333815.01770198</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>2FAE14D2-15CF-4EA0-A633-780A29F2ED87</string>
+		</dict>
 		<key>300EA2DD-8B89-429E-B045-E2177F3B1491</key>
 		<dict>
 			<key>className</key>
@@ -89,6 +425,34 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>300EA2DD-8B89-429E-B045-E2177F3B1491</string>
+		</dict>
+		<key>32F3CCB7-E3DB-4AF9-B8CB-FCAFC42A149F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32F3CCB7-E3DB-4AF9-B8CB-FCAFC42A149F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333826.45338404</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>32F3CCB7-E3DB-4AF9-B8CB-FCAFC42A149F</string>
 		</dict>
 		<key>36149F0F-1610-4445-81A3-38857A57D122</key>
 		<dict>
@@ -174,6 +538,62 @@
 			<key>uniqueIdentifier</key>
 			<string>3ACD8A9D-D063-4EA8-8B91-5EDED4C0483C</string>
 		</dict>
+		<key>3EA384BC-7AD6-4143-B0A1-748C17CDD2DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EA384BC-7AD6-4143-B0A1-748C17CDD2DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333795.87866604</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>3EA384BC-7AD6-4143-B0A1-748C17CDD2DA</string>
+		</dict>
+		<key>3F639D56-9DC5-46CD-944C-00ED7C337E1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F639D56-9DC5-46CD-944C-00ED7C337E1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333826.45338404</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>3F639D56-9DC5-46CD-944C-00ED7C337E1A</string>
+		</dict>
 		<key>3FB462C4-C921-4811-89FE-01A25F1869C9</key>
 		<dict>
 			<key>className</key>
@@ -201,6 +621,62 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>3FB462C4-C921-4811-89FE-01A25F1869C9</string>
+		</dict>
+		<key>42641B2B-6E94-4904-91ED-CA409751637A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42641B2B-6E94-4904-91ED-CA409751637A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333703.98463798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>42641B2B-6E94-4904-91ED-CA409751637A</string>
+		</dict>
+		<key>44E17EC2-B685-4B57-9012-BFD03E4654D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44E17EC2-B685-4B57-9012-BFD03E4654D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333795.87866604</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>44E17EC2-B685-4B57-9012-BFD03E4654D4</string>
 		</dict>
 		<key>47B11250-050F-4F1B-9E06-0D4393DEFFB2</key>
 		<dict>
@@ -230,6 +706,146 @@
 			<key>uniqueIdentifier</key>
 			<string>47B11250-050F-4F1B-9E06-0D4393DEFFB2</string>
 		</dict>
+		<key>47CFBADE-BDC8-49A5-9A5D-C789F4BE35C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47CFBADE-BDC8-49A5-9A5D-C789F4BE35C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333815.01770198</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>47CFBADE-BDC8-49A5-9A5D-C789F4BE35C2</string>
+		</dict>
+		<key>483B28F4-444B-4DFB-90CB-AD9AD98484DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>483B28F4-444B-4DFB-90CB-AD9AD98484DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703332521.56947196</real>
+			<key>timeStoppedRecording</key>
+			<real>703332521.66140604</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>483B28F4-444B-4DFB-90CB-AD9AD98484DE</string>
+		</dict>
+		<key>498A0A5A-5431-4002-B0D7-D67530D09A62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>498A0A5A-5431-4002-B0D7-D67530D09A62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333724.77413797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>498A0A5A-5431-4002-B0D7-D67530D09A62</string>
+		</dict>
+		<key>4A8D2FB8-65FD-4E80-9FCD-FDD9EA3C4ECB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A8D2FB8-65FD-4E80-9FCD-FDD9EA3C4ECB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333795.87866604</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>4A8D2FB8-65FD-4E80-9FCD-FDD9EA3C4ECB</string>
+		</dict>
+		<key>50EEF2DC-35CB-40FC-BC63-8225DCA702A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50EEF2DC-35CB-40FC-BC63-8225DCA702A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333669.599388</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>50EEF2DC-35CB-40FC-BC63-8225DCA702A5</string>
+		</dict>
 		<key>5425A274-7766-4CFA-B606-2AD0DC4569CD</key>
 		<dict>
 			<key>className</key>
@@ -257,6 +873,62 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>5425A274-7766-4CFA-B606-2AD0DC4569CD</string>
+		</dict>
+		<key>59A99F13-A129-491F-8426-29AF189E52B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59A99F13-A129-491F-8426-29AF189E52B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703332882.66503799</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>59A99F13-A129-491F-8426-29AF189E52B5</string>
+		</dict>
+		<key>5A43FD40-856F-4CF2-B9C4-467F44BFBC79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A43FD40-856F-4CF2-B9C4-467F44BFBC79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703334253.96992004</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>5A43FD40-856F-4CF2-B9C4-467F44BFBC79</string>
 		</dict>
 		<key>5ADC7437-E0FE-4CDC-A0E0-340F546C2435</key>
 		<dict>
@@ -286,6 +958,34 @@
 			<key>uniqueIdentifier</key>
 			<string>5ADC7437-E0FE-4CDC-A0E0-340F546C2435</string>
 		</dict>
+		<key>5DB86C94-E756-4239-BF51-479E9E9890AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DB86C94-E756-4239-BF51-479E9E9890AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333681.90360105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>5DB86C94-E756-4239-BF51-479E9E9890AF</string>
+		</dict>
 		<key>67684621-0AE7-40C0-A3E3-C73379825E07</key>
 		<dict>
 			<key>className</key>
@@ -314,6 +1014,62 @@
 			<key>uniqueIdentifier</key>
 			<string>67684621-0AE7-40C0-A3E3-C73379825E07</string>
 		</dict>
+		<key>6F74E328-BE3A-4CA3-B59F-FC3E93DBBF34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F74E328-BE3A-4CA3-B59F-FC3E93DBBF34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333675.00776196</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>6F74E328-BE3A-4CA3-B59F-FC3E93DBBF34</string>
+		</dict>
+		<key>70D77CD6-470F-43E1-9BC3-0712DDC96EB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70D77CD6-470F-43E1-9BC3-0712DDC96EB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333652.82887995</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>70D77CD6-470F-43E1-9BC3-0712DDC96EB2</string>
+		</dict>
 		<key>765A0E5B-E1FB-4F08-9CFC-C29BC397FC22</key>
 		<dict>
 			<key>className</key>
@@ -341,6 +1097,62 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>765A0E5B-E1FB-4F08-9CFC-C29BC397FC22</string>
+		</dict>
+		<key>76E81A4A-9094-4CBC-BE48-8351527BE811</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76E81A4A-9094-4CBC-BE48-8351527BE811.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333669.599388</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>76E81A4A-9094-4CBC-BE48-8351527BE811</string>
+		</dict>
+		<key>7F180794-92E3-4FA9-AE13-F4DFF4862F78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F180794-92E3-4FA9-AE13-F4DFF4862F78.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333045.44511294</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>7F180794-92E3-4FA9-AE13-F4DFF4862F78</string>
 		</dict>
 		<key>847C1E28-DB80-406E-A97B-7DE15D0E2272</key>
 		<dict>
@@ -426,6 +1238,34 @@
 			<key>uniqueIdentifier</key>
 			<string>8D5815D1-462D-41AB-B4A4-E2ADA6661786</string>
 		</dict>
+		<key>9020743A-F934-489C-A384-5EA5FBE4E1C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9020743A-F934-489C-A384-5EA5FBE4E1C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333802.03765798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>9020743A-F934-489C-A384-5EA5FBE4E1C1</string>
+		</dict>
 		<key>90AF23E3-CE2C-4CFE-A068-7C21C56AD05E</key>
 		<dict>
 			<key>className</key>
@@ -453,6 +1293,62 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>90AF23E3-CE2C-4CFE-A068-7C21C56AD05E</string>
+		</dict>
+		<key>99FE40AE-08E4-4835-9E6B-58280C4B2A5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99FE40AE-08E4-4835-9E6B-58280C4B2A5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333724.77413797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>99FE40AE-08E4-4835-9E6B-58280C4B2A5D</string>
+		</dict>
+		<key>9D441B23-D5E3-4337-949B-42712931AAD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D441B23-D5E3-4337-949B-42712931AAD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333779.00605702</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>9D441B23-D5E3-4337-949B-42712931AAD8</string>
 		</dict>
 		<key>9FF48759-3835-4B16-AC39-F9ECCFD5DF11</key>
 		<dict>
@@ -482,6 +1378,62 @@
 			<key>uniqueIdentifier</key>
 			<string>9FF48759-3835-4B16-AC39-F9ECCFD5DF11</string>
 		</dict>
+		<key>A5EDB54D-28EE-47D5-81D9-6E633C5AEEC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A5EDB54D-28EE-47D5-81D9-6E633C5AEEC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333724.77413797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>A5EDB54D-28EE-47D5-81D9-6E633C5AEEC7</string>
+		</dict>
+		<key>A8BA0711-ED03-4EC4-971E-E735C8F53D7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8BA0711-ED03-4EC4-971E-E735C8F53D7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333802.03765798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>A8BA0711-ED03-4EC4-971E-E735C8F53D7C</string>
+		</dict>
 		<key>AB7EB136-3573-4BD3-9575-651EDE5C3D4A</key>
 		<dict>
 			<key>className</key>
@@ -509,6 +1461,34 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>AB7EB136-3573-4BD3-9575-651EDE5C3D4A</string>
+		</dict>
+		<key>B0D31193-B06B-4D25-AE67-3E9A36C70AAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0D31193-B06B-4D25-AE67-3E9A36C70AAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703332521.56947196</real>
+			<key>timeStoppedRecording</key>
+			<real>703332521.66140604</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>B0D31193-B06B-4D25-AE67-3E9A36C70AAA</string>
 		</dict>
 		<key>B2E9056A-C811-4C8E-B146-12AEC0E413BC</key>
 		<dict>
@@ -622,6 +1602,34 @@
 			<key>uniqueIdentifier</key>
 			<string>BC8DCE23-7A64-44D6-9372-3FAD07F60BDE</string>
 		</dict>
+		<key>BD19616F-828A-4336-98C6-9B9D52557CBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD19616F-828A-4336-98C6-9B9D52557CBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333730.78813601</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>BD19616F-828A-4336-98C6-9B9D52557CBA</string>
+		</dict>
 		<key>C0C9DA3F-DAA7-4A3D-A34B-CD5D1CD6ACC0</key>
 		<dict>
 			<key>className</key>
@@ -649,6 +1657,230 @@
 			<string>Build for Previews Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>C0C9DA3F-DAA7-4A3D-A34B-CD5D1CD6ACC0</string>
+		</dict>
+		<key>C48538E8-FBBA-4F56-A401-88BFAC8755EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C48538E8-FBBA-4F56-A401-88BFAC8755EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333675.00776196</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>C48538E8-FBBA-4F56-A401-88BFAC8755EA</string>
+		</dict>
+		<key>CDB66034-30FA-47E7-8909-2903AB78AE3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDB66034-30FA-47E7-8909-2903AB78AE3C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333703.98463798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>CDB66034-30FA-47E7-8909-2903AB78AE3C</string>
+		</dict>
+		<key>CE6457E2-6BC7-4CC6-A832-641455191AA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE6457E2-6BC7-4CC6-A832-641455191AA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333669.599388</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>CE6457E2-6BC7-4CC6-A832-641455191AA5</string>
+		</dict>
+		<key>D314511A-2E20-499F-8717-40E2FA8981C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D314511A-2E20-499F-8717-40E2FA8981C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703332882.66503799</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>D314511A-2E20-499F-8717-40E2FA8981C6</string>
+		</dict>
+		<key>D4A6F93A-448D-4557-A56D-F504DB4B719C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4A6F93A-448D-4557-A56D-F504DB4B719C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333730.78813601</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>D4A6F93A-448D-4557-A56D-F504DB4B719C</string>
+		</dict>
+		<key>D4FEC04B-7C88-4433-8344-BC538669D734</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4FEC04B-7C88-4433-8344-BC538669D734.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703332882.66503799</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>D4FEC04B-7C88-4433-8344-BC538669D734</string>
+		</dict>
+		<key>E1D58201-FCA5-4C62-B6CD-024DEF631928</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1D58201-FCA5-4C62-B6CD-024DEF631928.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333681.90360105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>E1D58201-FCA5-4C62-B6CD-024DEF631928</string>
+		</dict>
+		<key>E6FE07E4-3510-4354-AF48-9535A35D64C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6FE07E4-3510-4354-AF48-9535A35D64C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333703.98463798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>E6FE07E4-3510-4354-AF48-9535A35D64C2</string>
 		</dict>
 		<key>E7EAB039-DC8B-46C0-AAA9-1B92BEC7BA97</key>
 		<dict>
@@ -705,6 +1937,118 @@
 			<string>Build Tetris</string>
 			<key>uniqueIdentifier</key>
 			<string>E9704804-C31A-429B-B2D0-AA7C160A93E4</string>
+		</dict>
+		<key>EA30FD92-37DD-4B93-87DE-9B3EBA6F0B73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA30FD92-37DD-4B93-87DE-9B3EBA6F0B73.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333652.82887995</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>EA30FD92-37DD-4B93-87DE-9B3EBA6F0B73</string>
+		</dict>
+		<key>EB67BAF8-4851-4DA3-8802-5CA7E0A9D86D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB67BAF8-4851-4DA3-8802-5CA7E0A9D86D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaXRhbWFycmFub1wvRG9jdW1lbnRzXC9HaXRIdWJcL1RldHJpc1wvVGV0cmlzLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703333681.90360105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>EB67BAF8-4851-4DA3-8802-5CA7E0A9D86D</string>
+		</dict>
+		<key>F5FE970C-AF36-413E-9838-1599CA52B182</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5FE970C-AF36-413E-9838-1599CA52B182.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703334253.96992004</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>F5FE970C-AF36-413E-9838-1599CA52B182</string>
+		</dict>
+		<key>F95A533A-7E08-4930-BA40-2C1BA1889FFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F95A533A-7E08-4930-BA40-2C1BA1889FFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL3JpdGFtYXJyYW5vXC9Eb2N1bWVudHNcL0dpdEh1YlwvVGV0cmlzXC9UZXRyaXMueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJDOTBBNTI1QTI5RUFENjA1MDA3RjYxMjMifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>703333802.03765798</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Tetris</string>
+			<key>uniqueIdentifier</key>
+			<string>F95A533A-7E08-4930-BA40-2C1BA1889FFB</string>
 		</dict>
 		<key>F9725F80-99EA-4B05-A286-7D0ECDAF7795</key>
 		<dict>
