@@ -1,8 +1,8 @@
 //
-//  StartView.swift
+//  ButtonPlayView.swift
 //  Tetris
 //
-//  Created by Rita Marrano on 16/04/23.
+//  Created by Rita Marrano on 30/04/23.
 //
 
 import SwiftUI
